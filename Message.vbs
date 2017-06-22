@@ -1,0 +1,1 @@
+x=msgbox("Helo World ",48+5,"VBScript")

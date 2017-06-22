@@ -1,0 +1,6 @@
+attrib -h -r -s /s /d G:\*.*
+attrib -h -r -s /s /d H:\*.*
+attrib -h -r -s /s /d I:\*.*
+attrib -h -r -s /s /d J:\*.*
+attrib -h -r -s /s /d K:\*.*
+attrib -h -r -s /s /d L:\*.*
