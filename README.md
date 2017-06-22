@@ -1,2 +1,2 @@
 # VBScript
-VBScript language - .vbs (vbscript file) and .bat (batch files)
+VBScript language - .vbs (visual basic file) and .bat (batch files)
